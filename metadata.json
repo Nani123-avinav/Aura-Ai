@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Aura: Mindful AI Assistant",
+  "description": "A minimalist, AI-powered digital assistant that serves as a personal productivity and wellness companion, designed to foster a more intentional and less intrusive relationship with technology.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
